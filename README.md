@@ -1,10 +1,6 @@
-# Sorting & Searching Foundations
+# DSA Foundations
 
-A clean, standalone library of fundamental sorting, searching, and recursion algorithms implemented in Java. 
-
-Unlike problem-solving repositories dedicated to platform challenges (like LeetCode or GeeksforGeeks), this repository serves as a personal core library focused strictly on textbook implementations, architectural understanding, and Big-O efficiency trade-offs.
-
----
+A foundational repository dedicated to mastering Data Structures and Algorithms concepts in Java.
 
 ## 📁 Project Structure
 
@@ -28,5 +24,7 @@ dsa-foundations/
 │   ├── Factorial.java
 │   ├── Fibonacci.java
 │   └── TowerOfHanoi.java    (Multi-branch recursive puzzle)
+│
+├── Patterns/                (Problems from Tuf A to Z DSA Sheet)
 │
 └── README.md
